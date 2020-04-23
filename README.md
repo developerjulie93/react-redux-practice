@@ -1,1 +1,3 @@
 Learning React-Redux
+
+finish
